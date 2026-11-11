@@ -4,6 +4,10 @@ Una skill de Claude para quienes tienen muchas ideas y quieren convertirlas en a
 
 Está pensada para personas que **no programan, pero dirigen**: saben lo que quieren lograr, aunque no siempre la mejor forma de llegar. La skill hace que Claude ordene la idea, la cuestione y la lleve por puertas de decisión antes de construir.
 
+## Por qué la hice
+
+Tengo muchas ideas y me pasaba lo de siempre: empezaba a construir, el objetivo aparecía al ver el resultado y terminaba rehaciendo todo. Esta skill es el método que armé para dejar de construir sobre huecos. La comparto para retribuir a la comunidad.
+
 ## Qué hace
 
 - **Interrogatorio por rondas:** antes de construir, Claude pregunta en rondas cortas. Cada pregunta trae su respuesta recomendada, y tú solo dices "sí" o la corriges.
@@ -58,3 +62,7 @@ Revisa siempre el contenido de una skill antes de instalarla. Esta contiene solo
 ## Licencia
 
 MIT. Puedes usarla, modificarla y compartirla.
+
+## ¿La probaste?
+
+Cuéntame qué puerta te sirvió más o qué le cambiarías: abre un *issue* en este repositorio.
